@@ -65,7 +65,7 @@ public class Test_Suite extends BaseClass{
 
     public void method_4(){
 
-        reuse.Store_Finder();
+        reuse.Kids();
 
     }
 
